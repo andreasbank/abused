@@ -138,6 +138,6 @@ You can even build the documentation yourself. The prerequisites are `doxygen` a
 
 ## Copyright and license
 
-- Code and documentation copyright 2017 by Andreas Bank.
-- Code released under the [GPL3 License](https://github.com/andreasbank/libssdp/blob/master/LICENSE) (will change to MIT soon).
+- Code and documentation copyright 2017-2019 by Andreas Bank.
+- Code released under the [MIT License](https://github.com/andreasbank/libssdp/blob/master/LICENSE).
 - Docs released under [Creative Commons](https://github.com/andreasbank/libssdp/blob/master/DOCS_LICENSE).
